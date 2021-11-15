@@ -1,0 +1,3 @@
+[submodule "libs/vector.lua"]
+	path = libs/vector
+	url = https://github.com/themousery/vector.lua.git
